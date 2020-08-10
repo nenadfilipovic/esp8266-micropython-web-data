@@ -4,7 +4,7 @@ Building basic script that will enable esp8266 boards to send data to website.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/esp8266-micropython-web-data
@@ -105,7 +105,7 @@ Upload your PHP files to hosting and upload code to ESP8266 board.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
